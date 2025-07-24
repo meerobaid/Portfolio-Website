@@ -1,3 +1,3 @@
 # Portfolio-Website
 My Personal Website 
-Where I have uploaded my skills and my education 
+Where I have uploaded my Projects and other details.
